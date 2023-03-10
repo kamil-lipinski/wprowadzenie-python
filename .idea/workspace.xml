@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05f19c5e-c761-47e8-9d14-a89d61f73e64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab_02/lab02.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_02/lab_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_02/zad4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_02/zad_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamil\Documents\aaaaaaaaaastudia\wprowadzenie-python\lab_03" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
